@@ -3,6 +3,8 @@
 > 中文名：古文漫画记忆  
 > Turn classical Chinese recitation into sentence-by-sentence comic memory chains.
 
+![古文漫画记忆 hero banner](assets/hero-banner.png)
+
 `guwen-comic-memory` is a Codex skill for memorizing 古诗文 / 文言文 with visual mnemonics.  
 It helps an AI agent split a passage into small recall units, design a concrete comic panel for each sentence, and create an overview “story chain” that lets learners recite from images.
 
@@ -56,6 +58,8 @@ Instead of making pretty atmosphere art, this skill asks one sharper question:
 ## English Introduction
 
 This skill turns classical Chinese memorization into a visual recall workflow.
+
+![Chunk Hook Recite workflow](assets/workflow.png)
 
 It is designed for passages where exact wording matters: poems, ci, fu, prose, dialogue passages, and exam recitation texts. The goal is not to illustrate the “vibe” of a text. The goal is to create visual indexes for exact recall.
 
@@ -176,6 +180,10 @@ The image should help memory; the final caption should preserve textual accuracy
 English:
 
 > I built a Codex skill that turns classical Chinese recitation into comic memory chains: every panel is designed to help you recover the exact line.
+
+### Promo image / 宣传图
+
+![古文漫画记忆 social poster](assets/social-poster.png)
 
 ---
 
