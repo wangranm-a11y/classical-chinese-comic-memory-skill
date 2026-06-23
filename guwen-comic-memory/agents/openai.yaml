@@ -1,0 +1,4 @@
+interface:
+  display_name: "古文漫画记忆"
+  short_description: "把古诗文逐句拆成漫画记忆链辅助背诵默写和考前快速复习"
+  default_prompt: "Use $guwen-comic-memory to turn this classical Chinese passage into a sentence-by-sentence comic memorization plan."
